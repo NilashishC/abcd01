@@ -9,6 +9,8 @@ dependencies:
   python:
     - requests
     - paramiko
+  system:
+    - libssh
   galaxy:
     collections:
       - name: cisco.nxos
